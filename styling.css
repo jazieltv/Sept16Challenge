@@ -1,0 +1,26 @@
+.left {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.cookie {
+  align-items: center;
+  justify-content: center;
+}
+
+.adding {
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+}
+
+.left h1 {
+  text-align: center;
+}
+
+.adding {
+  background-image: url("arrow.jpeg");
+  background-size: cover;
+  width: 300px;
+}
